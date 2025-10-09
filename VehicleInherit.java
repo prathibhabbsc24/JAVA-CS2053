@@ -1,4 +1,4 @@
-class Vehicle {
+class Vehicle{
     String brand;
 
     // Constructor
