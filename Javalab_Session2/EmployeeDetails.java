@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ import java.util.Scanner;
 
 class Employee {
     String name;
@@ -16,7 +16,7 @@ class Employee {
     }
 }
 
-class Employeedt {
+class EmployeeDetails {
     public static void main(String[] args) {
         System.out.println("=== HR Onboarding System ===\n");
        
