@@ -16,7 +16,7 @@ class Employee {
     }
 }
 
-class EmployeeDetails {
+class EmployeeDetails{
     public static void main(String[] args) {
         System.out.println("=== HR Onboarding System ===\n");
        
