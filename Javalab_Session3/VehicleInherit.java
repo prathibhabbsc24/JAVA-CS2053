@@ -2,7 +2,7 @@ class Vehicle{
     String brand;
 
     // Constructor
-    Vehicle(String brand) {
+    Vehicle(String brand){
         this.brand = brand;
     }
 
