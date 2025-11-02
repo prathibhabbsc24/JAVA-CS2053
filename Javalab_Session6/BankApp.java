@@ -8,7 +8,7 @@ class LowBalanceException extends Exception {
 class BankAccount {
     private double balance;
 
-    public BankAccount(double balance) {
+    public BankAccount(double balance){
         this.balance = balance;
     }
 
