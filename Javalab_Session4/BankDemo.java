@@ -3,7 +3,7 @@ abstract class Account {
     protected String accountHolder;
     protected double balance;
 
-    public Account(String accountHolder, double balance) {
+    public Account(String accountHolder, double balance){
         this.accountHolder = accountHolder;
         this.balance = balance;
     }
